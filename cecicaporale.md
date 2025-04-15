@@ -12,6 +12,7 @@
 - **Linguagem favorita:** JavaScript
 - **Biblioteca favorita:** React
 - **Formação:** Engenharia de Software na Pitágoras
+- **Hobbies:** Desenhar 
 
 
 ----
