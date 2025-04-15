@@ -1,2 +1,0 @@
-# participantes
-Descrever os participantes
