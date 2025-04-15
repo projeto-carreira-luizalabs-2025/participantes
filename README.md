@@ -1,2 +1,2 @@
 # participantes
-Descrever os participantes
+Descrever os participantes do projeto carreira 2025.
