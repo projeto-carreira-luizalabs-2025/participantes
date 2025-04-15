@@ -1,5 +1,8 @@
 # Guilherme Gabriel
 
+
+<img src="https://avatars.githubusercontent.com/u/24783896?v=4" width="100"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Gabriel-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegabr/)](https://www.linkedin.com/in/guilhermegabr/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermegf005@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermegf005@gmail.com)](mailto:guilhermegf005@gmail.com)
 
