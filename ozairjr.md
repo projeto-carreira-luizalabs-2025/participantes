@@ -2,7 +2,7 @@
 
 ## Quem sou?
 
-- Sou líder técnico no Luizabs.
+- Sou líder técnico no Luizalabs.
 - Formado em Ciência da Computação na UFU.
 - Também tenho pós graduação em Redes na UFU.
 - Casado desde 1990.
@@ -12,7 +12,7 @@
 
 - Jogar vídeo game
 - Jogar 🏐 e 🏀
-- Tocar algum instrumento
+- Tocar algum instrumento (violão, flauta, ...)
 - Acompanhar minha esposa em alguma série (atualmente são doramas 🇰🇷)
 
 # Contatos
