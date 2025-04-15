@@ -1,14 +1,8 @@
-# participantes
 <<<<<<< HEAD
+# participantes
 Descrever os participantes
-
-## Elbia Buglio
-
-- Linguagem favorita: python
-- Formação: Analista e Desenvolvimento de Sistemas
-- Hobbies: filmes e esporte
-- Linkedin: https:(https://www.linkedin.com/in/elbiasimonebuglio/)
-- Github: https://github.com/Elbiabuglioy
 =======
+# Participantes Projeto Carreira 2025
+
 Descrever os participantes do projeto carreira 2025.
->>>>>>> b082a988e9ae0acc5ae5067a684a2027688070f1
+>>>>>>> f2bb2239177c15b5fac1eecbd195818623219b52
